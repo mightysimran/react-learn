@@ -1,0 +1,14 @@
+https://react.dev/
+
+npx -> Node Package eXecute
+npm -> Node Package Manager
+
+How to create a react app
+- npx create-react-app name
+- npm create vite@latest (modern build tool faster and better than create-react-app)
+
+package.json - main config file
+metadata about the project and its dependencies, scripts and other configurations.
+
+package-lock.json - locks specific versions of dependencies for consistent installations.
+
