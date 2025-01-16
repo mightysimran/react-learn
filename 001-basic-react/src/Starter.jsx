@@ -3,3 +3,5 @@ function Starter(){
         <h3>Starter</h3>
     )
 }
+
+export default Starter
