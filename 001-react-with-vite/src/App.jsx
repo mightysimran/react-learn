@@ -1,6 +1,11 @@
+import Starter from "./Starter"
+
 function App() {
   return (
-    <h1>React With Vite | mightysimran</h1>
+    <>
+      <Starter></Starter>
+      <p>This is test paragraph right here</p>
+    </>
   )
 }
 

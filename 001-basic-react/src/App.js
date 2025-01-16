@@ -1,6 +1,10 @@
+import Starter from "./Starter"
+
 function App() {
   return (
-    <h1>React | mightysimran</h1>
+    <>
+      <Starter/>
+    </>
   );
 }
 
