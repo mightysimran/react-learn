@@ -12,3 +12,5 @@ metadata about the project and its dependencies, scripts and other configuration
 
 package-lock.json - locks specific versions of dependencies for consistent installations.
 
+
+https://react.dev/blog/2025/02/14/sunsetting-create-react-app
